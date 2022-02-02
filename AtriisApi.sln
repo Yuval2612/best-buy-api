@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Atriis-store-api", ".", "{0096578D-FF77-42FB-8552-CE38C0494A9A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_53240"
+		Debug.AspNetCompiler.PhysicalPath = "..\Atriis-store-api\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53240\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_53240"
+		Release.AspNetCompiler.PhysicalPath = "..\Atriis-store-api\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_53240\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53240"
+		SlnRelativePath = "..\Atriis-store-api\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0096578D-FF77-42FB-8552-CE38C0494A9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0096578D-FF77-42FB-8552-CE38C0494A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C4D4B68-06E8-471A-8B29-1B68313BC3F7}
+	EndGlobalSection
+EndGlobal
