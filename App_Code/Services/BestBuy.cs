@@ -7,9 +7,7 @@ using System.Threading.Tasks;
 using System.Web;
 using System.Web.Configuration;
 
-/// <summary>
-/// Summary description for BestBuy
-/// </summary>
+
 public class BestBuy
 {
 	readonly static string _serviceUrl = WebConfigurationManager.AppSettings["best-buy-url"];
